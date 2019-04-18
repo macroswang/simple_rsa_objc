@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - RSAUtil (1.0)
+  - simple_rsa_objc (0.0.1):
+    - Flutter
+    - RSAUtil (~> 1.0)
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - simple_rsa_objc (from `.symlinks/plugins/simple_rsa_objc/ios`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - RSAUtil
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  simple_rsa_objc:
+    :path: ".symlinks/plugins/simple_rsa_objc/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+  RSAUtil: 9ee452c121696122df03529323da805ddc815156
+  simple_rsa_objc: 1a3439d85e10235de012eabcf85eae13fead4029
+
+PODFILE CHECKSUM: aff02bfeed411c636180d6812254b2daeea14d09
+
+COCOAPODS: 1.6.1
